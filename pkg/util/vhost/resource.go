@@ -46,9 +46,10 @@ const (
         </div>
         
         <div class="notfound-reason">
-            <p align="center"><a href="https://m.heimaoba.top/">黑猫之家</a>
-            <p align="center"><a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=xfkhy5h5">阿里云优惠券</a>
-            <p align="center"><a href="https://www.bt.cn/?invite_code=MV9za2l1eW8=">宝塔专业版优惠券</a>
+            <p align="center"><a href="https://app.heimaoba.cn/">黑猫之家</a>
+            <p align="center"><a href="https://cloud.tencent.com/act/cps/redirect?redirect=2446&cps_key=8700306c81b92541829f34d1973f51bb&from=console">【腾讯云】云服务器、云数据库、COS、CDN、短信等云产品特惠热卖中</a>
+            <p align="center"><a href="https://www.bt.cn/?invite_code=M19za2l1eW8=">宝塔服务器面板，一键全能部署及管理，送你10850元礼包，点我领取</a>
+
         </div>
 
     </div></body>
